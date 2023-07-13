@@ -8,7 +8,7 @@ I **started** my Internship on **February 15 of 2023**.
 
 I **completed** cloning the required website on **13July of 2022**.
 
-Once I did that, I got **3 additional tasks** to complete within the next **15 days**.
+Once I did that, I got **3 additional tasks** to complete within the next **20 days**.
 
 ### Tasks Assigned
 
